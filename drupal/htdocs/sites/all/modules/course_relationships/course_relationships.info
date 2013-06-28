@@ -1,0 +1,15 @@
+name = Course Relationships
+description = "A module to handle families of courses with parent/child relationships."
+core = 7.x
+dependencies[] = course
+dependencies[] = ctools
+files[] = course_relationships.classes.inc
+files[] = course_relationships.test
+package = Course
+
+; Information added by drupal.org packaging script on 2013-06-22
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "course_relationships"
+datestamp = "1371862118"
+

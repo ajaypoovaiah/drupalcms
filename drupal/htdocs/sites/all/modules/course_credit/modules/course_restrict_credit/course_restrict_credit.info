@@ -1,0 +1,12 @@
+name = Course restrict credit
+description = Restricts claiming credit to only one of many similar courses.
+package = Course
+core = 7.x
+dependencies[] = course_credit
+
+; Information added by drupal.org packaging script on 2013-06-19
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "course_credit"
+datestamp = "1371649777"
+
